@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "agenda": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["${workspaceFolder}/server.py"]
+    }
+  }
+}

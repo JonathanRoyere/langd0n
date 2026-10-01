@@ -1,0 +1,10 @@
+[
+  {"start": "10:00", "speaker": "Jonathan Altman", "title": "Houston, We Have a Provenance Problem"},
+  {"start": "10:45", "speaker": "Ramya Ravi", "title": "Your Agent Is Only as Good as What It Retrieves"},
+  {"start": "11:30", "speaker": "Langdon White", "title": "MCP Servers - The Agentic API Layer"},
+  {"start": "12:45", "speaker": "Jackie Peters", "title": "Finally, a Fix for 'Stupid?': Building AI Guardrails for Humans Who Copy-Paste PII"},
+  {"start": "13:30", "speaker": "John Mark Walker", "title": "InnerSource for Agents"},
+  {"start": "14:15", "speaker": "William Caban", "title": "Red Teaming Agents: The New Attack Surface of Tools and State"},
+  {"start": "15:00", "speaker": "Blake Mauri", "title": "Project NANDA"},
+  {"start": "16:00", "speaker": "Ra'ad Siraj", "title": "Happy Hour Discussion Panel: AI Safety and Security with Rick Grinnell and Ra'ad Siraj"}
+]
